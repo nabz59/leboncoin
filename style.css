@@ -1,0 +1,49 @@
+
+nav {
+    height: 30px;
+    }
+li { 
+    display: inline-block;
+    }
+li a { 
+    
+    background-color:orange;
+    float: left;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 2px;
+    margin-right: 12px;}
+
+#header .headerContent {
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    padding: 0.5rem 0px;
+    vertical-align: middle;
+    background: #F56B2A none repeat scroll 0% 0%;
+
+}
+menu, {
+
+    display: block;}
+
+body {
+
+    font-size: 1.3em;
+    color: #1A1A1A;
+    line-height: 1.5;
+    text-align: center
+
+}
+
+}
+html {
+
+    font-family: sans-serif;
+    position: center;
+
+}
